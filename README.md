@@ -13,9 +13,9 @@ Step 5:Iterate through each word in the tokenized text.<br>
 •	Extract synonyms and antonyms using lemma.name() and lemma.antonyms()[0].name() respectively.<br>
 •	Print the unique sets of synonyms and antonyms.
 ### Program:
-**Developed By: ANBUSELVAM A**
+**Developed By: Kothai K**
 
-**REGISTER NO:212222240009**
+**REGISTER NO:2122222400051**
 ##### Importing NLTK and Resource Downloads
 ```Python
 import nltk
